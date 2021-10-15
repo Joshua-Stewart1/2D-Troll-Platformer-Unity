@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51dacf800419b3c4ab2a5e83ec591e6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spike: {fileID: 11400000, guid: 63c22a70d3218304f9bac586a34eeca5, type: 2}
+  - spikeDown: {fileID: 11400000, guid: 0a5ef9c6eab35d64e991fd3ff64ff2ef, type: 2}
+  - spikeLeft: {fileID: 11400000, guid: fbc06816e1e96b64c8a40314b3785416, type: 2}
+  - spikeRight: {fileID: 11400000, guid: 167ece4ab66166c4284555b6d457ec3b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
